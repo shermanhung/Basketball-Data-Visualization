@@ -4,7 +4,7 @@ We are still in the process of finishing this project, therefore please keep in 
 
 GameClock
 
-GameClock allows coaches to analyze a single basketball game on a play-by-play level. Please note the source of the data is play-by-play data merged with SportsVU data, that is why we were able to obtain the location of each play that takes place during a game.
+GameClock allows coaches to analyze a single basketball game on a play-by-play level. Please note the source of the data is play-by-play     data merged with SportsVU data, that is why we were able to obtain the location of each play that takes place during a game.
 
 The x-axis represents the time of a single game. The left starting point represents the beginning of a game, and the right ending point represents the ending of a game. Notice that this visualization is split into four quadrants, where each quadrant represents one single quarter. 
 
