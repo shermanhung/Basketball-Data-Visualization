@@ -1,5 +1,5 @@
 # Basketball-Data-Visualization
-We are still in the process of finishing this project, therefore please keep in mind that the visualizations displayed here are far from finished. A lot of changes shall be made in the future. In the rest of this document, I will attempt to explain the purpose of each visualization. 
+We are still in the process of finishing this project, therefore please keep in mind that the visualizations displayed here are far from finished. A lot of changes will be made in the future. I will attempt to given an detailed explanation of each visualization here: 
 
 
 ## GameClock
