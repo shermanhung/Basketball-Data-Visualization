@@ -3,6 +3,8 @@ We are still in the process of finishing this project, therefore please keep in 
 
 
 ## GameClock
+![gameclock](https://cloud.githubusercontent.com/assets/25786510/24466719/6bf51d86-14e4-11e7-8cde-3dcbf2cc13ad.png)
+
 
 GameClock allows coaches to analyze a single basketball game on a play-by-play level. Please note the source of the data is play-by-play     data merged with SportsVU data, that is why we were able to obtain the location of each play that takes place during a game.
 
@@ -13,7 +15,9 @@ The y-axis represents distance away from the basket in feet raning from 0 to 30.
 You will see a lot of symbols attached with a line on this diagram. Each symbol represents the kind of play that takes place during a game. The definition of each symbol is shown on the very top of the visualization. Each line and symbol are colored coded in red or green. Green means a positive play, and red means a negative play. For example, the first green line with a circle labled 1 in the upper half means the home team scored 1 point. 
 
 ## PlayerStream
-  
+![playerstream](https://cloud.githubusercontent.com/assets/25786510/24466792/b5cf291a-14e4-11e7-94f1-5f158281b06f.png) 
+
+
 PlayerStream also allows coaches to analyze a single baskebtall game, but from a different perspective. The data source of this visualization is the same as the one used in GameClock.
   
 The x-axis represents the time of a single game. The left starting point represents the beginning of a game, and the right ending point represents the ending of a game.
