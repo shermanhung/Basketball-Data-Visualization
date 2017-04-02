@@ -22,4 +22,11 @@ PlayerStream also allows coaches to analyze a single baskebtall game, but from a
   
 The x-axis represents the time of a single game. The left starting point represents the beginning of a game, and the right ending point represents the ending of a game.
   
-This visualization is split into three segments: upper half, middle, and bottom half. The upper half represents the home team. The middle represetns the scores of the game. The bottom half represents the away team. Each stream represents a player on respective team. The thickness of the stream represents the impact of each player at specific point in time. Notice that each stream has a different color, thus making it easier to differentiate among different players. The bar chart in the middle shows which team team is leading at any specific point in time, and also by how much that team is leading. 
+This visualization is split into three segments: upper half, middle, and bottom half. The upper half represents the home team. The middle represetns the scores of the game. The bottom half represents the away team. Each stream represents a player on respective team. The thickness of the stream represents the impact of each player at specific point in time. Notice that each stream has a different color, thus making it easier to differentiate among different players. The bar chart in the middle shows which team team is leading at any specific point in time, and also by how much that team is leading.
+
+## CourtChart
+![courtchart](https://cloud.githubusercontent.com/assets/25786510/24585530/4700f080-17bf-11e7-96a5-03facabd4fcc.png)
+
+CourtChart is a visualization that allows coaches to analyze the spacing and location of players during a basketball game. The data source of this visualization is from SportsVU data. SportsVU is a camera system that is installed at the top of an arena. It captures the X,Y positioning of players and X,Y,Z positioning of the ball. 
+
+
