@@ -27,6 +27,6 @@ This visualization is split into three segments: upper half, middle, and bottom 
 ## CourtChart
 ![courtchart](https://cloud.githubusercontent.com/assets/25786510/24585530/4700f080-17bf-11e7-96a5-03facabd4fcc.png)
 
-CourtChart is a visualization that allows coaches to analyze the spacing and location of players during a basketball game. The data source of this visualization is from SportsVU data. SportsVU is a camera system that is installed at the top of an arena. It captures the X,Y positioning of players and X,Y,Z positioning of the ball. 
+CourtChart is an animation that allows coaches to analyze the spacing and location of players during a basketball game. The animation shows the positioning the players and the ball on the court in each basketball play. More importantly, it shows the trajectory of the movement of each player. The data source of this visualization is from SportsVU data. SportsVU is a camera system that is installed at the top of an arena. It captures the X,Y positioning of players and X,Y,Z positioning of the ball. 
 
 
